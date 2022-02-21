@@ -1,0 +1,6 @@
+fpga_led_switch_test
+.Xil
+*.jou
+*.log
+*.str
+
